@@ -4,6 +4,10 @@ public class User {
     private String personID;
     private String phoneNumber;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 432b8eb (test)
     public User() {
     }
 
